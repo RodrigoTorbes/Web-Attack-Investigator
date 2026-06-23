@@ -20,8 +20,8 @@ Projeto desenvolvido para análise de logs Apache/Nginx com foco em Blue Team e 
 
 ## Dashboard
 
-![Dashboard](images/dashboard.png)
-
+![Dashboard](images/Screenshot_1.jpg)
+![Dashboard](images/Screenshot_2.jpg)
 ## Funcionalidades
 
 - Top IPs
